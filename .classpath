@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EDD_Datos/src"/>
+	<classpathentry kind="src" path="EstructurasLineales/src"/>
+	<classpathentry kind="src" path="Recursividad/src"/>
+	<classpathentry kind="output" path="EDD_Datos/out/production/Prueba_BSO"/>
+</classpath>
