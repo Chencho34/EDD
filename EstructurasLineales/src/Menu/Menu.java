@@ -1,6 +1,7 @@
 package Menu;
 
 import ColaEstatica.ColaA;
+import ColaEstatica.ColaB;
 import MemoriaDinamica.PilaB;
 import MemoriaDinamica.PilaC;
 import MemoriaDinamica.PilaD;
@@ -15,7 +16,8 @@ public class Menu {
 //		PilaC<Integer> pila = new PilaC<Integer>();		
 //		PilaD pila = new PilaD();
 
-		ColaA<Integer> cola = new ColaA<Integer>((byte)10);
+//		ColaA<Integer> cola = new ColaA<Integer>((byte)10);
+		ColaB<Integer> cola = new ColaB<Integer>();
 
 		String sel = "";
 
